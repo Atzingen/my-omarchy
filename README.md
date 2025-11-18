@@ -4,7 +4,8 @@
 ## Apps extras
 
 * https://github.com/nwg-piotr/nwg-displays
-'''bash
+  
+```console
 yay -S nwg-displays
-'''
+```
 * ...
