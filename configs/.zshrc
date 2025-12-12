@@ -1,0 +1,4 @@
+eval "$(atuin init zsh)"
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+eval "$(atuin init zsh)"
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh

@@ -1,0 +1,1 @@
+/home/gustavo/.config/omarchy/current/theme/neovim.lua

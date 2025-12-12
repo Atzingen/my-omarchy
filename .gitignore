@@ -1,0 +1,31 @@
+# Backup files
+*.bak
+*.swp
+*.tmp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache directories
+configs/**/cache/
+configs/**/Cache/
+configs/**/.cache/
+
+# Sensitive data
+configs/**/*password*
+configs/**/*secret*
+configs/**/*token*
+configs/**/.env
+
+# Browser specific
+configs/chromium/
+configs/BraveSoftware/
+configs/google-chrome/
+configs/Code/
+
+# Large or unnecessary files
+*.log
+*.sqlite
+*.db

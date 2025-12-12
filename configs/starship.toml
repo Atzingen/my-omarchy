@@ -1,0 +1,8 @@
+[conda]
+format = "($symbol$environment) "
+ignore_base = true
+symbol = " "
+style = "bold green"
+
+[gcloud]
+disabled = true
