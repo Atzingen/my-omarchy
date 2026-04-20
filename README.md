@@ -143,6 +143,10 @@ yay -Sc
 yay -Yc
 ```
 
+## Migration Notes
+
+- **Hyprland 0.53+ windowrule syntax:** Hyprland 0.53 completely rewrote the windowrule syntax. If `hyprctl configerrors` shows "invalid field" messages after an Omarchy/Hyprland upgrade, see [`HYPRLAND-0.53-MIGRATION.md`](HYPRLAND-0.53-MIGRATION.md) for the conversion cheat sheet and the exact diffs that were applied to this repo.
+
 ## Notes
 
 - This configuration is tailored for Omarchy Linux
